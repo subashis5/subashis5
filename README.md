@@ -1,29 +1,109 @@
-<h1 align="center">Hi 👋, I'm Subashis</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+```md
+<h1 align="center">Hi 👋, I'm Subashis Palai</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot & React Enthusiast | BCA Student from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subashis5&label=Profile%20views&color=0e75b6&style=flat" alt="subashis5" /> </p>
-
-- 🔭 I’m currently studying in **Mits school of Biotechnology**
-
-- 🌱 I’m currently learning **frontend Course**
-
-- 👨‍💻 All of my projects are available at [linktr.ee/subashispalai](linktr.ee/subashispalai)
-
-- 💬 Ask me about **C , C++ , JAVA**
-
-- 📫 How to reach me **subashispalai@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subashis-palai-27798429b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subashis-palai-27798429b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://github.com/subashis5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/subashis5" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subashis5&label=Profile%20Views&color=0e75b6&style=flat" alt="subashis5" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subashis5&show_icons=true&locale=en&layout=compact" alt="subashis5" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subashis5&show_icons=true&locale=en" alt="subashis5" /></p>
+- 🎓**Bachelor of Computer Applications (BCA)** at **Utkal University**
+- 🌱 Currently learning **Spring Boot, Hibernate, REST APIs, React, System Design & DSA**
+- 💼 Building **Full Stack Java Projects**
+- 🔥 Passionate about **Backend Development, Problem Solving & Clean Code**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, React, OOPs & DSA**
+- 📫 Reach me at **subashispalai@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashis5&" alt="subashis5" /></p>
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/subashis-palai-27798429b/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/subashis5" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+</p>
+
+### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45"/>
+</p>
+
+### Database
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+### Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- ☕ Java & Advanced OOP
+- 🌱 Spring Boot
+- 🔄 REST API Development
+- 🗄️ Hibernate & JPA
+- ⚛️ React
+- 🧩 Data Structures & Algorithms
+- 🏗️ Low Level Design
+- 💻 Full Stack Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=subashis5&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashis5&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subashis5&theme=tokyonight"/>
+</p>
+
+---
+
+### ✨ Quote
+
+> *"Consistency beats talent when talent doesn't stay consistent."*
+```
