@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Subashis Palai</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot & React Enthusiast | BCA Student from India 🇮🇳</h3>
 
