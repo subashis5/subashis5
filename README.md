@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓**Bachelor of Computer Applications (BCA)** at **Utkal University**
+- 🎓 **Bachelor of Computer Applications (BCA)** at **Utkal University**
 - 🌱 Currently learning **Spring Boot, Hibernate, REST APIs, React, System Design & DSA**
 - 💼 Building **Full Stack Java Projects**
 - 🔥 Passionate about **Backend Development, Problem Solving & Clean Code**
